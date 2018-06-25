@@ -1,0 +1,27 @@
+Questions to analyse:
+
+- relationship between popularity and revenue
+- most common keywords, most popular keywords, most grossing keywords
+- most common genres, most popular genres, most grossing genres
+- least common genres?
+- common directors, average revenue for top grossing directors
+- most common production companies, average revenues
+- trends movie revenues
+- trends in movie ratings
+- trends in genres?
+- highest rated movie? lowest rated movie?
+- characteristics of high revenue movies
+- characteristics of highly rated movies
+- oldest directors, production companies
+- does revenue depend on month released?
+- do weekend/weekday release dates have some effect in revenue/popularity?
+- relationship between popularity and budget?
+
+Wrangling:
+
+- budget and revenue data is not listed for a lot of movies; instead very
+  small  values (mostly 0, but sometimes 1 too) are given
+- some movies are missing imdb id
+- production companies missing
+- make a column for weekday of release
+
